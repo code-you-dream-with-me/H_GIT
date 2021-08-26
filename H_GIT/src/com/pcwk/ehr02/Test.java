@@ -1,10 +1,10 @@
 package com.pcwk.ehr02;
 
-public class hello1 {
+public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("Hello,eunsole");
-		
+		// TODO Auto-generated method stub
+
 	}
 
 }
