@@ -1,10 +1,9 @@
-package com.pcwk.ehr02;
+package com.pcwk.ehr01;
 
-public class Test {
+public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//hello im hyesoo
 
 	}
 
