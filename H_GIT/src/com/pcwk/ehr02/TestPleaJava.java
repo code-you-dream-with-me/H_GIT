@@ -1,10 +1,9 @@
 package com.pcwk.ehr02;
 
-public class Test {
+public class TestPleaJava {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//hello im hyesoo
+		//i am hyesoo commit please!!!!1!
 
 	}
 
